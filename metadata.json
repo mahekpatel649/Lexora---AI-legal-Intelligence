@@ -1,0 +1,6 @@
+{
+  "name": "Lexora — AI Legal Intelligence & Case Management",
+  "description": "AI-assisted legal document intelligence, grounded citation Q&A, and case management platform for legal practitioners.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
